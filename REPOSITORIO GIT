@@ -1,0 +1,35 @@
+REPOSITÓRIO GITHUB
+
+
+LINK: https://github.com/DMXinformatica/DMXinformatica.git
+LOGIN: DMXinformatica
+TOKEN: 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
+
+
+Comandos:
+
+
+
+BAIXAR REPO:
+    > git clone <endereço>
+
+ENVIAR REPO:
+    > git push -u origin main
+
+VERIFICAR STATUS DO REPO(LOCAL)
+    > git status
+
+ATUALIZAR REPO (LOCAL)
+    > git add <nome do arquivo>
+    > git add . (todos os arquivos)
+
+FAZER UM COMENTÁRIO (COMMIT)
+    > git commit -m "---"
+
+VERIFICAR/TROCAR BRANCH
+    > git checkout
+    > git branch -M <nome do branch> (padrão: /origin/main)
+
+LINKAR O REPO LOCAL COM REMOTO
+    > git remote add origin <endereço>
+
